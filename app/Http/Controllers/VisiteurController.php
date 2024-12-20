@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Container\Attributes\Auth;
 use Illuminate\Http\Request;
 use App\Models\Visiteur;
 use Exception;
